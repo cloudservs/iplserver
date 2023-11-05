@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      host: "216.48.179.136"
+      port: 8100
+      database: "mclear-production"
+      username: "mclear-production-user"
+      password: "mclear@mclear.202209@001"
